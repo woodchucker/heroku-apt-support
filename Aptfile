@@ -1,4 +1,4 @@
 libc6-dev-i386 
 lib32ncurses5
-libstdc++6:i38
+libstdc++6
 multiarch-support
